@@ -1,0 +1,40 @@
+# django
+# pandas
+# matplotlib
+# chart_studio
+# keras
+# tensorflow
+# scikit-learn
+# statsmodels
+#Remember: This is Python 3.9, don't update!!! Afther this version of Python, this project doesn't work anymore. USE PYTHON 3.9!!!
+#Use the following versions! Don't install the latest versions, it will not work!
+
+# For Git Bash:
+# Crear el entorno virtual
+#python -m venv nombre_del_entorno
+# Activar el entorno virtual
+#source nombre_del_entorno/Scripts/activate
+
+# For Cmd:
+# Crear el entorno virtual
+#python -m venv nombre_del_entorno
+# Activar el entorno virtual
+#nombre_del_entorno\Scripts\activate.bat
+
+# For PowerShell:
+# Crear el entorno virtual
+#python -m venv nombre_del_entorno
+# Activar el entorno virtual
+#nombre_del_entorno\Scripts\Activate.ps1
+
+Django==3.2
+pandas==1.3.5
+matplotlib==3.3.4
+numpy==1.19.5
+chart-studio==1.1.0
+plotly==4.14.3
+keras==2.6.0
+tensorflow==2.6.0
+scikit-learn==1.6.1
+protobuf==3.20.3
+statsmodels==0.12.2

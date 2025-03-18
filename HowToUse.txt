@@ -1,0 +1,5 @@
+If you wanna use this project, you have to install all requirements in the file: "requirements.txt".
+Configure your type of connection, in this case, we will use sqlite like database.
+If you use the same configuration that me, and you have the same database, you will need these creddentials:
+- user: admin@gmail.com
+- password: 123
